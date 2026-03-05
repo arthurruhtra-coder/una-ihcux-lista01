@@ -14,3 +14,10 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 ## 📸 Evidência de Execução
 ![Foto do meu terminal](./screenshot.png)
 <img width="977" height="506" alt="Terminal" src="https://github.com/user-attachments/assets/26f50336-912e-4600-b899-46a681520f3c" />
+
+# ¶ EXTRA
+![Informações do processador]
+- Processador(es): 1 processador(es) instalado(s).
+  [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~1400 Mhz
+
+
